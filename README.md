@@ -19,7 +19,8 @@ A modern, responsive *Login & Registration UI* built using *HTML, **CSS, and **J
 1. *Clone this repository* 
    ```bash
    git clone https://github.com/akash098p/Login-Registration-Page.git
-   cd login-register-page
+   cd Login-Registration-page
+   index.html
 
 2. *Open index.html in your browser*
    ```bash
