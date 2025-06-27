@@ -12,13 +12,13 @@ A modern, responsive *Login & Registration UI* built using *HTML, **CSS, and **J
 
 ## 🖥 Live Preview
 
-> 📌 Add a screenshot or deploy on GitHub Pages / Netlify to preview
+> 📌![Login & Register UI](screenshot.png)
 
 ## ⚙ How to Use
 
 1. *Clone this repository* 
    ```bash
-   git clone https://github.com/yourusername/login-register-page.git
+   git clone https://github.com/akash098p/Login-Registration-Page.git
    cd login-register-page
 
 2. *Open index.html in your browser*
@@ -27,5 +27,5 @@ A modern, responsive *Login & Registration UI* built using *HTML, **CSS, and **J
 
 ## 🧩Customization Tips
   Replace [Enter your website name] in the HTML with your actual site or app name.
-  Change social <a href="#"> links to actual OAuth endpoints or remove them if not needed.
+  
   Customize fonts, colors, and spacing via style.css.
