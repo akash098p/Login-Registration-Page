@@ -1,6 +1,6 @@
 # 🔐 Login & Register Page
 
-A modern, responsive *Login & Registration UI* built using *HTML, **CSS, and **JavaScript. It includes animated transitions and social login icons for a professional user experience.
+A modern, responsive *Login & Registration UI* built using *HTML*, *CSS*, and *JavaScript*. It includes animated transitions and social login icons for a professional user experience.
 
 ## 🚀 Features
 
