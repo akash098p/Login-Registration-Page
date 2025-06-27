@@ -27,6 +27,6 @@ A modern, responsive *Login & Registration UI* built using *HTML*, *CSS*, and *J
    # you can double-click the file or use Livr Server (VS Code)
 
 ## 🧩Customization Tips
-  Replace [Enter your website name] in the HTML with your actual site or app name.
+   • Replace [Enter your website name] in the HTML with your actual site or app name.
   
-  Customize fonts, colors, and spacing via style.css.
+   • Customize fonts, colors, and spacing via style.css.
