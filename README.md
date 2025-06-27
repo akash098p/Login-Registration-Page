@@ -10,7 +10,7 @@ A modern, responsive *Login & Registration UI* built using *HTML*, *CSS*, and *J
 - Easy to customize and integrate
 - Pure HTML, CSS, and JavaScript (no frameworks)
 
-## 🖥 Live Preview
+## 🖥 Preview
 
 > 📌![Login & Register UI](screenshot.png)
 
