@@ -16,13 +16,16 @@ A modern, responsive *Login & Registration UI* built using *HTML*, *CSS*, and *J
 
 ## ⚙ How to Use
 
-1. *Clone this repository* 
+1. *Click on this for live preview*
+   https://akash098p.github.io/Login-Registration-Page/
+   
+2. *Clone this repository* 
    ```bash
    git clone https://github.com/akash098p/Login-Registration-Page.git
    cd Login-Registration-page
    index.html
 
-2. *Open index.html in your browser*
+3. *Open index.html in your browser*
    ```bash
    # you can double-click the file or use Livr Server (VS Code)
 
